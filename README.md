@@ -1,4 +1,4 @@
-# Straffeloven 2005 - se [lovdata] (https://lovdata.no/dokument/NL/lov/2005-05-20-28)
+# Straffeloven 2005 - se [lovdata](https://lovdata.no/dokument/NL/lov/2005-05-20-28)
 
 Laget av gruppe 1 (REAL GRUPPE 1)
 Audun Solemdal
