@@ -1,4 +1,13 @@
-# Straffeloven 1902 - se [lovdata](https://lovdata.no/dokument/NLO/lov/1902-05-22-10)
+# Straffeloven 2005 - se [lovdata] (https://lovdata.no/dokument/NL/lov/2005-05-20-28)
+
+Laget av gruppe 1 (REAL GRUPPE 1)
+Audun Solemdal
+Bendik Gjøvikli
+Kenneth Bjørsvik
+Dat-Danny Pham
+Kristoffer Selbekk Hille
+Even Ofstad
+
 
 * 1\. oktober 2015: Ble erstattet av Straffeloven 2005
 * Loven kan anvendes f.eks ved:
